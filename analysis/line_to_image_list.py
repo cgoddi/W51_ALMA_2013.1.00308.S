@@ -1,4 +1,5 @@
 line_to_image_list = [
+    #CG: need to edit missing interesting lines SiO, CH3NCO, etc.)
     ('H2CO303_202', "218.22219GHz",0.5, 0),
     ('H2CO321_220', "218.76007GHz",1.2, 1),
     ('H2CO322_221', "218.47564GHz",0.5, 0),
